@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reviewing **Playwright framework**
 
-- 💬 Ask me about **Java, Microservices, Selenium, Appium, RestAssured, Selenide, Cypress, Playwright, Shift-Left, Docker, Web/Mobile/API Automation**
+- 💬 Ask me about **Java, Microservices, Selenium, Appium, RestAssured, Selenide, Cypress, Playwright, Shift-Left, Docker, BDD, Web/Mobile/API Automation**
 
 - 📫 How to reach me **santhoshshetty58@gmail.com**
 
