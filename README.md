@@ -10,8 +10,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hQOOlLSHJE_DzqJUUsGOcy1p41c9BssH/view?usp=drive_link](https://drive.google.com/file/d/1hQOOlLSHJE_DzqJUUsGOcy1p41c9BssH/view?usp=drive_link)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+https://medium.com/@santhoshshetty58/testing-made-easy-chrome-for-testing-and-selenium-manager-join-forces-3e610764bc4a
+https://medium.com/@santhoshshetty58/appium-groundbreaking-changes-e996d6de8139
+https://medium.com/@santhoshshetty58/setting-up-appium-2-0-made-simple-your-step-by-step-guide-7ebe13e57669
+https://medium.com/@santhoshshetty58/assertions-simplified-63a0f0b52952
+https://medium.com/@santhoshshetty58/contract-testing-using-pact-a0caddc08bed
+https://medium.com/@santhoshshetty58/webdriver-bidi-the-game-changer-603bb2d51831
+https://medium.com/@santhoshshetty58/gitub-copilot-revolutionizing-coding-with-ai-assistance-bef2b8b4a291
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
