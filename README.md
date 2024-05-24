@@ -9,14 +9,18 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hQOOlLSHJE_DzqJUUsGOcy1p41c9BssH/view?usp=drive_link](https://drive.google.com/file/d/1hQOOlLSHJE_DzqJUUsGOcy1p41c9BssH/view?usp=drive_link)
 
-### Blogs posts
-https://medium.com/@santhoshshetty58/testing-made-easy-chrome-for-testing-and-selenium-manager-join-forces-3e610764bc4a
-https://medium.com/@santhoshshetty58/appium-groundbreaking-changes-e996d6de8139
-https://medium.com/@santhoshshetty58/setting-up-appium-2-0-made-simple-your-step-by-step-guide-7ebe13e57669
-https://medium.com/@santhoshshetty58/assertions-simplified-63a0f0b52952
-https://medium.com/@santhoshshetty58/contract-testing-using-pact-a0caddc08bed
-https://medium.com/@santhoshshetty58/webdriver-bidi-the-game-changer-603bb2d51831
-https://medium.com/@santhoshshetty58/gitub-copilot-revolutionizing-coding-with-ai-assistance-bef2b8b4a291
+### Featured Blog Posts
+Check out some of my latest blog posts where I explore various topics related to testing, automation, and software development:
+
+- [Testing Made Easy: Chrome for Testing and Selenium Manager Join Forces](https://medium.com/@santhoshshetty58/testing-made-easy-chrome-for-testing-and-selenium-manager-join-forces-3e610764bc4a)
+- [Appium: Groundbreaking Changes](https://medium.com/@santhoshshetty58/appium-groundbreaking-changes-e996d6de8139)
+- [Setting up Appium 2.0 Made Simple: Your Step-by-Step Guide](https://medium.com/@santhoshshetty58/setting-up-appium-2-0-made-simple-your-step-by-step-guide-7ebe13e57669)
+- [Assertions Simplified](https://medium.com/@santhoshshetty58/assertions-simplified-63a0f0b52952)
+- [Contract Testing Using Pact](https://medium.com/@santhoshshetty58/contract-testing-using-pact-a0caddc08bed)
+- [WebDriver BiDi: The Game Changer](https://medium.com/@santhoshshetty58/webdriver-bidi-the-game-changer-603bb2d51831)
+- [GitHub Copilot: Revolutionizing Coding with AI Assistance](https://medium.com/@santhoshshetty58/gitub-copilot-revolutionizing-coding-with-ai-assistance-bef2b8b4a291)
+
+Explore these insightful articles to learn more about cutting-edge technologies and best practices in the world of software development and testing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
