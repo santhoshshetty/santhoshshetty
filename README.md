@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **santhoshshetty58@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hQOOlLSHJE_DzqJUUsGOcy1p41c9BssH/view?usp=drive_link](https://drive.google.com/file/d/1hQOOlLSHJE_DzqJUUsGOcy1p41c9BssH/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1NnttTS0CV4qJH1D8gCNZw0EpWaA3NGmC/view?usp=drive_link
 
 ### Featured Blog Posts
 Check out some of my latest blog posts where I explore various topics related to testing, automation, and software development:
