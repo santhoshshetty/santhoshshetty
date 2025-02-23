@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">A Passionate Tech Enthusiast and Programmer Dedicated to Solving Problems and Enhancing Software Efficiency</h3>
 
-- 🔭 I’m currently reviewing **Playwright framework**
+- 🔭 I’m currently reviewing **Gen AI conepts - LLMs, Langchain, RAG**
 
-- 💬 Ask me about **Java, Microservices, Selenium, Appium, RestAssured, Selenide, Cypress, Playwright, Shift-Left, Docker, BDD, Web/Mobile/API Automation**
+- 💬 Ask me about **Java, Microservices, Spring boot, Selenium, Appium, RestAssured, Playwright, Kafka, Apache Flink, Selenide, Cypress, Playwright, Shift-Left, Docker, BDD, Web/Mobile/API Automation**
 
 - 📫 How to reach me **santhoshshetty58@gmail.com**
 
