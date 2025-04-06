@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reviewing **Gen AI conepts - LLMs, Langchain, RAG, MCP**
 
-- 💬 Ask me about **Java, Microservices, Spring boot, Kubernetes, Kafka/Confluent Kafka, Apache Flink, Azure, Selenium, Appium, RestAssured, Playwright, Kafka, Apache Flink, Selenide, Cypress, Playwright, Shift-Left, Docker, BDD, Web/Mobile/API Automation**
+- 💬 Ask me about **Java, Microservices, Spring boot, Kubernetes, Azure, Selenium, Appium, RestAssured, Playwright, Kafka/Confluent Kafka, Apache Flink, Selenide, Cypress, Playwright, Shift-Left, Docker, BDD, Web/Mobile/API Automation**
 
 - 📫 How to reach me **santhoshshetty58@gmail.com**
 
